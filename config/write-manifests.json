@@ -1,4 +1,4 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
-  "cdnBasePath": "<!-- PATH TO CDN -->"
+  "cdnBasePath": "https://home.spapps.nshq.nato.int/sites/catalog/appsourcefiles/"
 }

@@ -1,10 +1,14 @@
 # datatable
 
+this is actually a jquery accordian in a spfx 1.1.0 web part
+
+Note how the jqueru-ui.css file was imported
+
 ## Summary
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/add-jqueryui-accordion-to-web-part
 
 ## Used SharePoint Framework Version
 
