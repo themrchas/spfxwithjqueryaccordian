@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/dataTable/DataTableWebPart.js",
+      "manifest": "./src/webparts/dataTable/DataTableWebPart.manifest.json",
+      "outputPath": "./dist/data-table-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "DataTableWebPartStrings": "webparts/dataTable/loc/{locale}.js"
+  }
+}

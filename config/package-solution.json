@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "datatable-client-side-solution",
+    "id": "d11a02d9-0068-4b1b-8a9d-5b239b0076d5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/datatable.sppkg"
+  }
+}
