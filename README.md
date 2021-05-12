@@ -2,11 +2,13 @@
 
 this is actually a jquery accordian in a spfx 1.1.0 web part
 
-Note how the jqueru-ui.css file was imported
+Note how the jquery-ui.css file was imported
 
 ## Summary
 
 Short summary on functionality and used technologies.
+
+Demonstrates the use of jQuery accordian in a SPFx web part.
 
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/add-jqueryui-accordion-to-web-part
 
